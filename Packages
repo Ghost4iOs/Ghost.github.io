@@ -1,6 +1,6 @@
-Package: com.Ghost.newpackage
+Package: com.Ghost.deadbydaylight
 Version: 5.2.1
-Section: Tweaks
+Section: ادوات هاك
 Maintainer: Ghost <ghost4uios@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
@@ -11,5 +11,20 @@ SHA1: C2C32A3C3290E010D8BCF5E29DAE92CBB3145E1C
 SHA256: 83B09F5CF5F17F833A15197746AC620890249C91B401FE212753FE0BC0A6D992
 Description: اداة هاك للعبة dead by dayight 
 Name: Dead by daylight Hack
+Author: Ghost <ghost4uios@gmail.com>
+Depiction: 
+
+Package: com.Ghost.ِAppSync
+Version: 104.0
+Section: ادوات مساعدة
+Maintainer: Ghost <ghost4uios@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: /AppSync.deb
+Size: 44216
+MD5sum: F9016A8B4090473A045D3A43CC39377C
+SHA256: D12EBAB7FCA8F21D8A1BC67A890F24054A5DE8FF9DDC2E74FA4A047843C44311
+Description: اداة لتثبيت تطبيقات بصيغة ipa
+Name: ِAppSync
 Author: Ghost <ghost4uios@gmail.com>
 Depiction: 
